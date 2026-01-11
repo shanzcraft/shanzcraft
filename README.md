@@ -14,7 +14,7 @@ I build interactive projects regularly as learning exercises but also for fun. C
 ### What I’m working on at the moment
 - Developing games and interactive experiences in Godot, Unity, and with Node.js and Electron
 - Building modern, responsive web projects
-- Improving my GitHub portfolio 
+- Refining my web development workflow and design practices
 
 <!--
 **shanzcraft/shanzcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
