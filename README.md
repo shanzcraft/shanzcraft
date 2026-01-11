@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Shannon, a junior software developer specializing in game and web development.
+I'm Shannon, a software developer specializing in game and web development.
 
 I build interactive projects regularly as learning exercises but also for fun. Constantly expanding my knowledge of building both games and web apps from the ground up.
 
