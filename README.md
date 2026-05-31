@@ -11,7 +11,7 @@ I'm constantly expanding my knowledge of building both games and web apps from t
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 ### What I’m working on
-- Developing games and interactive experiences using Godot, Unity, and Node.js / Electron
+- Developing games and interactive experiences using Godot, Pygame, Unity, and Node.js / Electron
 - Building creative, interactive web projects
 - Refining my web development workflow and design practices
 
