@@ -15,6 +15,9 @@ I'm constantly expanding my knowledge of building both games and web apps from t
 - Building creative, interactive web projects
 - Refining my web development workflow and design practices
 
+### Play games that I have made
+https://shanzgamestudios.itch.io/
+
 <!--
 **shanzcraft/shanzcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
